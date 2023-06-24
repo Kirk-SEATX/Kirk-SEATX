@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kirk-SEATX
+- 👋 Hi, I’m Kirk Sistek-Bigger
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning github, sql, python unit testing and more
+- 🌱 I’m currently learning github, excel, tableau, sql, and python with pandas and more
 - 💞️ I’m looking to collaborate on data projects
 - 📫 Reach me on linkedin www.linkedin.com/in/kirk-bigger
 
